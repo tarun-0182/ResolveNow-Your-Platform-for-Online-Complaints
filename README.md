@@ -95,7 +95,3 @@ Need help or want to contribute?
 📧 Email: support@resolvenow.example.com
 📞 Helpline: +1 (234) 567-8900
 
-
----
-
-Let me know if you need a version tailored for a specific
