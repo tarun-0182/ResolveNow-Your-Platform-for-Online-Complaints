@@ -62,9 +62,9 @@ NGOs and civil society organizations
 Visit: https://resolvenow.example.com
 Mobile App: Coming soon on Android & iOS!
 
-##📝  Documents Drive 
+📝  Documents Drive 
 
-      [https://drive.google.com/drive/folders/1MpqHucyZTxkop77p5KC_NSZ2s7CMzprC?usp=drive_link].(https://drive.google.com/drive/folders/1MpqHucyZTxkop77p5KC_NSZ2s7CMzprC?usp=drive_link)
+ [https://drive.google.com/drive/folders/1MpqHucyZTxkop77p5KC_NSZ2s7CMzprC?usp=drive_link].(https://drive.google.com/drive/folders/1MpqHucyZTxkop77p5KC_NSZ2s7CMzprC?usp=drive_link)
 
 ---
 
